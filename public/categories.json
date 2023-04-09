@@ -1,0 +1,26 @@
+[
+    {
+        "id": "623853b2614ad5aba311fdd1",
+        "categorylogo": "https://media.istockphoto.com/id/172897808/photo/balancing-the-accounts.jpg?s=612x612&w=0&k=20&c=ysMq5yvPeVAbQYWjDtcRtCcdSOkOgEYcXht4j-WXhQg=",
+        "categoryname": "Account & Finance",
+        "jobsavailable": "300 Jobs Available"
+    },
+    {
+        "id": "623853b2578e9e6ad1ae0dd5",
+        "categorylogo": "https://www.emotivebrand.com/wp-content/uploads/2016/10/StrategicInnovationAndDesignThinking_XSDR221-1080x675.jpg",
+        "categoryname": "Creative Design",
+        "jobsavailable": "100+ Jobs Available"
+    },
+    {
+        "id": "623853b21fb149d2ee7b76c7",
+        "categorylogo": "https://www.tidio.com/wp-content/uploads/product-marketing-graph-1200x960.png",
+        "categoryname": "Marketing & Sales",
+        "jobsavailable": "150 Jobs Available"
+    },
+    {
+        "id": "623853b2e91c8de578c9245e",
+        "categorylogo": "https://jobs.newscientist.com/getasset/b43642ce-1068-4bbd-94bb-d415b9928179/",
+        "categoryname": "Engineering Job",
+        "jobsavailable": "224 Jobs Available"
+    }
+]
