@@ -10,15 +10,17 @@ import Home from './Blog/Home/Home';
 import Statistics from './Header/Statistics/Statistics';
 import AppliedJobs from './Blog/AppliedJobs/AppliedJobs';
 import Blog from './Blog/Blog';
+
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App></App>,
     children: [
       {
-        path: 'home',
+        path: '/',
         element: <Home></Home>,
-
+      },
+      {
       },
       {
         path: 'statistics',

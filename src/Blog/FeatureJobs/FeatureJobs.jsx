@@ -17,9 +17,15 @@ const FeatureJobs = () => {
                 {
                     features.map(feature => <SingleFeature
                         key={feature.id}
-                        feature={feature}></SingleFeature>)
+                        feature={feature}
+                    ></SingleFeature>)
+
                 }
+
+
+
             </div>
+
         </div >
     );
 };
