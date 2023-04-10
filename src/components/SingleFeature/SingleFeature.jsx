@@ -1,5 +1,5 @@
 import React from 'react';
-const SingleFeature = ({ feature }) => {
+const SingleFeature = ({ feature, handleReviewDetails }) => {
     const { CompanyLogo, Jobtitle, Remote, Onsite, Location, Salary, CompanyName } = feature
     return (
         <div className='border border-inherit p-10'>
@@ -16,7 +16,7 @@ const SingleFeature = ({ feature }) => {
                     <p>{Salary}</p>
                 </div>
             </div>
-            <button className='btn btn-primary mt-6'>View Details </button>
+            <button onClick={() => handleReviewDetails(feature)} className='btn btn-primary mt-6'>View Details </button>
 
         </div>
     );

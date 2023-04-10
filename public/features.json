@@ -12,7 +12,8 @@
         "JobResponsibility": "PCB Design and Fabrication, CAD Modeling Firmware Development for Microcontrollers, Circuit Debugging and Simulation,Work with Various Device Protocols,Inventory Management",
         "EducationalRequirements": "Bachelor degree to complete any reputational university.",
         "Experiences": "2-3 Years in this field.",
-        "Email": "info@gmail.com"
+        "Email": "info@gmail.com",
+        "Phone": "01755586321"
     },
     {
         "id": "2",
@@ -27,7 +28,8 @@
         "JobResponsibility": "Design and develop high-quality, user-friendly, and scalable web applications using React and other modern frontend technologies, Conduct code reviews, provide feedback, and mentor junior developers to promote best practices and maintain code quality standard",
         "EducationalRequirements": "Graduated from any reputed university.",
         "Experiences": "At least 3 years of proven experience as a Web Developer.",
-        "Email": "rony@gamil.com"
+        "Email": "rony@gamil.com",
+        "Phone": "01755586323"
     },
     {
         "id": "3",
@@ -42,7 +44,8 @@
         "JobResponsibility": "Develop 2D/3D Game with Unity & C#,Transform design specifications into ,Establish an effective strategy and development pipeline functional game assets. Quickly create and iterate on prototypes showcasing new designs and interaction patterns.",
         "EducationalRequirements": "Bachelor degree to complete any Europien university",
         "Experiences": "2-4 Years in this field.",
-        "Email": "rubel@gmail.com"
+        "Email": "rubel@gmail.com",
+        "Phone": "01755586324"
     },
     {
         "id": "4",
@@ -57,6 +60,7 @@
         "JobResponsibility": "Writing high-quality simple backend code that meets requirements and acceptance criteria",
         "EducationalRequirements": "Bachelor degree to complete any usa university",
         "Experiences": "2-5 Years in this field.",
-        "Email": "shakib@gamil.com"
+        "Email": "shakib@gamil.com",
+        "Phone": "01755586327"
     }
 ]

@@ -27,7 +27,17 @@ const router = createBrowserRouter([
       {
         path: '/details/:jobId',
         element: <JobDetails></JobDetails>,
-        loader: () => fetch('/products.json'),
+        loader: async ({ params }) => {
+          const res = await fetch('/features.json')
+          const data = await res.json()
+          const single = data.find(job => job.id == params.jobId)
+          if (single) {
+            return single
+          }
+          else {
+            return {}
+          }
+        },
       },
       {
         path: 'statistics',
