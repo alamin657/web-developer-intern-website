@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 const Header = () => {
     return (
-        <div className="navbar bg-base-100 mt-14">
+        <div className="navbar  mt-14 bg-gray-400">
             <div className="navbar-start ml-72">
-                <a className="btn btn-ghost normal-case text-xl">EmployNet</a>
+                <a className="text-xl">EmployNet</a>
             </div>
             <div className="navbar-center hidden lg:flex  space-x-4">
                 <Link to="/Home">Home</Link>

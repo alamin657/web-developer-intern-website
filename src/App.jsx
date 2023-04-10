@@ -4,8 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Outlet } from 'react-router-dom'
 import Header from './Header/Header'
-import JobDreams from './Header/JobDreams/JobDreams'
+import JobDreams from './Blog/JobDreams/JobDreams'
 import JobCategory from './JobCategory/JobCategory'
+import FeatureJobs from './Blog/FeatureJobs/FeatureJobs'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,6 +16,7 @@ function App() {
       <Header></Header>
       <JobDreams></JobDreams>
       <JobCategory></JobCategory>
+      <FeatureJobs></FeatureJobs>
       <Outlet></Outlet>
     </div>
 

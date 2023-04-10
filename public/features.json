@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "CompanyLogo": "https://cdn.mos.cms.futurecdn.net/rjqJEKv6P9Yjy9d3KMGvp8.jpg",
+        "Jobtitle": "Technical Database Engineer",
+        "Remote": "Remote",
+        "Onsite": "Onsite",
+        "Location": "Dhaka, Bangladesh",
+        "Salary": "Salary : 100K - 150K",
+        "CompanyName": "Google LLC",
+        "JobDescription": "Job Description: A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "JobResponsibility": "PCB Design and Fabrication, CAD Modeling Firmware Development for Microcontrollers, Circuit Debugging and Simulation,Work with Various Device Protocols,Inventory Management",
+        "EducationalRequirements": "Bachelor degree to complete any reputational university.",
+        "Experiences": "2-3 Years in this field.",
+        "Email": "info@gmail.com"
+    },
+    {
+        "id": "2",
+        "CompanyLogo": "https://images.squarespace-cdn.com/content/v1/5481ad0be4b083f708da64a0/6cbc1d43-02d8-47c5-a198-5dd22219dac0/Netflix_Logo_PMS.png",
+        "Jobtitle": "Senior Product Designer",
+        "Remote": "Remote",
+        "Onsite": "Onsite",
+        "Location": "Gazipur,Banglades",
+        "Salary": "15k - 20k",
+        "CompanyName": "Netflix",
+        "JobDescription": "Sound knowledge in WordPress site developed using Elementor, Divi, Beaver, Thrive builder,Good knowledge of PHP,Good Knowledge of CSS, CSS3, and JavaScript",
+        "JobResponsibility": "Design and develop high-quality, user-friendly, and scalable web applications using React and other modern frontend technologies, Conduct code reviews, provide feedback, and mentor junior developers to promote best practices and maintain code quality standard",
+        "EducationalRequirements": "Graduated from any reputed university.",
+        "Experiences": "At least 3 years of proven experience as a Web Developer.",
+        "Email": "rony@gamil.com"
+    },
+    {
+        "id": "3",
+        "CompanyLogo": "https://logowik.com/content/uploads/images/tesla.jpg",
+        "Jobtitle": "Software Engineer",
+        "Remote": "Remote",
+        "Onsite": "Onsite",
+        "Location": "Khulna,Bangladesh",
+        "Salary": "15k - 20k",
+        "CompanyName": "Tesla",
+        "JobDescription": "At least 5 years of technical experience in the telecommunications industry,Basic coding ability (in any language) and experience using MySQL,Proficiency in at least 3 of the following technologies: Gitlab, Jenkins, Chaos Monkey, Kubernetes, Grafana.",
+        "JobResponsibility": "Develop 2D/3D Game with Unity & C#,Transform design specifications into ,Establish an effective strategy and development pipeline functional game assets. Quickly create and iterate on prototypes showcasing new designs and interaction patterns.",
+        "EducationalRequirements": "Bachelor degree to complete any Europien university",
+        "Experiences": "2-4 Years in this field.",
+        "Email": "rubel@gmail.com"
+    },
+    {
+        "id": "4",
+        "CompanyLogo": "https://1000logos.net/wp-content/uploads/2017/08/Airbnb-logo.jpg",
+        "Jobtitle": "Motion Graphic Designer",
+        "Remote": "Remote",
+        "Onsite": "Onsite",
+        "Location": "Barisal,Banglades",
+        "Salary": "12k - 18k",
+        "CompanyName": "Airbnb LLC",
+        "JobDescription": "Developing and implementing user interface components using ReactJS,Design and implement UI/UX wireframes.Building reusable components and front-end libraries for future use.",
+        "JobResponsibility": "Writing high-quality simple backend code that meets requirements and acceptance criteria",
+        "EducationalRequirements": "Bachelor degree to complete any usa university",
+        "Experiences": "2-5 Years in this field.",
+        "Email": "shakib@gamil.com"
+    }
+]
