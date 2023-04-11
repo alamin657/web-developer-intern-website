@@ -18,7 +18,7 @@ const FeatureJobs = () => {
         <div>
             <h1 className='text-center mt-32 text-5xl'>Featured Jobs</h1>
             <p className='text-center'>Explore thousands of job opportunities with all the information you need. Its your future</p>
-            <div className='grid grid-cols-2  gap-6 mt-8 ml-72 mr-72'>
+            <div className='grid md:grid-cols-2  gap-6 mt-8 md:ml-72 mr-72'>
                 {
                     features.map(feature => <SingleFeature
                         key={feature.id}
@@ -27,8 +27,6 @@ const FeatureJobs = () => {
                     ></SingleFeature>)
 
                 }
-
-
 
             </div>
 
