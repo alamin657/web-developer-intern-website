@@ -12,6 +12,8 @@ import AppliedJobs from './Blog/AppliedJobs/AppliedJobs';
 import Blog from './Blog/Blog';
 import JobDetails from './JobCategory/SingleCategory/JobDetails/JobDetails';
 import ErrorPage from './components/ErrorPage/ErrorPage';
+import { appliedJobsInformation } from './loaders/appliedJobsInfortamtion';
+
 
 const router = createBrowserRouter([
   {
@@ -44,8 +46,9 @@ const router = createBrowserRouter([
         element: <Statistics></Statistics>
       },
       {
-        path: 'applied jobs',
-        element: <AppliedJobs></AppliedJobs>
+        path: 'appliedjobs',
+        element: <AppliedJobs></AppliedJobs>,
+        loader: appliedJobsInformation
       },
       {
         path: 'blog',

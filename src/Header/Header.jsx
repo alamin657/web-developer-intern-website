@@ -9,7 +9,7 @@ const Header = () => {
             <div className="navbar-center hidden lg:flex  space-x-4">
                 <Link to="/">Home</Link>
                 <Link to="/Statistics">Statistics</Link>
-                <Link to="/Applied Jobs">Applied Jobs</Link>
+                <Link to="/AppliedJobs">AppliedJobs</Link>
                 <Link to="/Blog">Blog</Link>
 
             </div>
