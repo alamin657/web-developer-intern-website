@@ -2,8 +2,8 @@ import React from 'react';
 
 const JobDreams = () => {
     return (
-        <div className='grid md:grid-cols-2 gap-28 bg-gray-400'>
-            <div className='ml-72 mt-12'>
+        <div className='grid grid-cols-1 md:grid-cols-2 md:gap-28 bg-gray-400 md:bg-gray-400'>
+            <div className='md:ml-72 ml-2 md:mt-12 mt-2'>
                 <h1 className='text-7xl'>One Step Closer To Your <br /> <span className='text-orange-300'>Dream Job</span></h1>
                 <p className='mt-14'>Explore thousands of job opportunities with all the <br /> information you need. Its your future. Come find it. Manage all <br /> your job application from start to finish.</p>
                 <div className='mb-4'>

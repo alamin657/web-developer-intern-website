@@ -14,7 +14,7 @@ const SingleApplyJob = ({ product }) => {
                 <p>{CompanyName}</p>
 
 
-                <div className='flex justify-between gap-96'>
+                <div className='flex justify-between gap-72'>
                     <div className='flex gap-2 mt-2'>
                         <p className='border border-blue-400 p-2 bg-red-600 rounded-md'>{Remote}</p>
                         <p className='border border-blue-400 p-2 bg-green-600 rounded-md'>{Onsite}</p>

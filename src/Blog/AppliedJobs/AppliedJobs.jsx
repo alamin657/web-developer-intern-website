@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
 import SingleApplyJob from '../../components/singleApplyJob/SingleApplyJob';
+import { getShoppingCart } from '../../utilities/fakedb';
 const AppliedJobs = () => {
     const { products } = useLoaderData()
     const [jobs, setJobs] = useState(products)
@@ -10,6 +11,11 @@ const AppliedJobs = () => {
         setJobs(data);
 
     }
+    const storedCart = getShoppingCart();
+
+
+    console.log(storedCart)
+
     return (
         <div>
             <h1 className='text-center text-5xl mt-14 '>Applied Jobs</h1>
@@ -32,7 +38,7 @@ const AppliedJobs = () => {
 
 
                 {
-                    jobs.map(product => <SingleApplyJob
+                    storedCart.map(product => <SingleApplyJob
                         key={product.id}
                         product={product}
                     ></SingleApplyJob>)

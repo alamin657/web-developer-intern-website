@@ -8,6 +8,7 @@ const JobDetails = () => {
     const id = useLoaderData()
     const handleApplyNow = id => {
         addToDb(id)
+        console.log(id)
     }
 
     return (
