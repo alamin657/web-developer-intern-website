@@ -9,7 +9,8 @@ const JobDreams = () => {
                 <button className='btn btn-primary mt-8'>Get Started</button>
             </div>
             <div className='w-6/12 h-96 mr-40 mt-10'>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/800px-Elon_Musk_Royal_Society_%28crop2%29.jpg" alt="" />
+                {/* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/800px-Elon_Musk_Royal_Society_%28crop2%29.jpg" alt="" /> */}
+                {/* <img className='bg-gray-400' src="https://hairstylecamp.com/wp-content/uploads/black-gentleman-haircut.jpg.webp" alt="" /> */}
 
             </div>
 

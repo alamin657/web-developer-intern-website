@@ -62,5 +62,35 @@
         "Experiences": "2-5 Years in this field.",
         "Email": "shakib@gamil.com",
         "Phone": "01755586327"
+    },
+    {
+        "id": "5",
+        "CompanyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3r_UNgs3AOt4nP6iwvQJA6GTlqil60omxw&usqp=CAU",
+        "Jobtitle": "Web Designer",
+        "Remote": "Remote",
+        "Onsite": "Onsite",
+        "Location": "Shylet, Banglades",
+        "Salary": "10k-15k",
+        "CompanyName": "Engineering Job",
+        "JobDescription": "Web designers plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics and video clips. A web designer is responsible for creating the design and layout of a website or web pages.",
+        "JobResponsibility": "xceed your billable utilization target, Manage multiple application development projects simultaneously,Assist with the development of service estimates as required,Provide best practice advice and guidance to clients and partner development teams",
+        "EducationalRequirements": "Bachelor degree to complete any london university",
+        "Experiences": "3 Years in this field",
+        "Email": "roki@gmail.com"
+    },
+    {
+        "id": "6",
+        "CompanyLogo": "https://w7.pngwing.com/pngs/738/965/png-transparent-web-development-web-design-software-development-web-developer-web-design-blue-angle-web-design-thumbnail.png",
+        "Jobtitle": "Web Developer",
+        "Remote": "Remote",
+        "Onsite": "Onsite",
+        "Location": "Mumbai,India",
+        "Salary": "20k - 22k",
+        "CompanyName": "Engineering Job",
+        "JobDescription": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).",
+        "JobResponsibility": "Develop quality software and web applications,Analyze and maintain existing software applications,Design highly scalable, testable code",
+        "EducationalRequirements": "Bachelor degree to complete any london university",
+        "Experiences": "Experiences",
+        "Email": "bilgates@gmail.com"
     }
 ]
