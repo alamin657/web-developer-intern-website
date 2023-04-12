@@ -12,10 +12,12 @@ const SingleApplyJob = ({ product }) => {
             <div className='mt-6'>
                 <p>{Jobtitle}</p>
                 <p>{CompanyName}</p>
-                <div className='flex justify-between'>
+
+
+                <div className='flex justify-between gap-96'>
                     <div className='flex gap-2 mt-2'>
-                        <p className='border border-blue-400 p-2'>{Remote}</p>
-                        <p className='border border-blue-400 p-2'>{Onsite}</p>
+                        <p className='border border-blue-400 p-2 bg-red-600 rounded-md'>{Remote}</p>
+                        <p className='border border-blue-400 p-2 bg-green-600 rounded-md'>{Onsite}</p>
                     </div>
 
                     <div>
@@ -28,7 +30,6 @@ const SingleApplyJob = ({ product }) => {
                     <MapPinIcon className="h-4 w-4 mt-1" /> <p>{Location}</p>
                     <CurrencyDollarIcon className="h-4 w-4 mt-1" /> <p>{Salary}</p>
                 </div>
-
             </div>
 
         </div>

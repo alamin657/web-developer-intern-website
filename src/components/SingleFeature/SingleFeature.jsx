@@ -10,8 +10,8 @@ const SingleFeature = ({ feature, handleReviewDetails }) => {
                 <p className='mt-2'>{Jobtitle}</p>
                 <p>{CompanyName}</p>
                 <div className='flex gap-4 mt-2'>
-                    <p className='border border-red-200 text-blue-700 p-2'>{Remote}</p>
-                    <p className='border border-red-200 text-blue-700 p-2'>{Onsite}</p>
+                    <p className='border border-red-200  bg-red-600 rounded-md p-2'>{Remote}</p>
+                    <p className='border border-red-200  bg-green-600 rounded-md p-2'>{Onsite}</p>
                 </div>
                 <div className='flex gap-4 mt-4'>
 

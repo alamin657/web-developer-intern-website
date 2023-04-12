@@ -15,7 +15,6 @@ const FeatureJobs = () => {
         navigate(`/details/${feature.id}`)
     }
     const [dataSlice, setdataSlice] = useState(false);
-    // console.log(dataSlice);
     return (
         <div>
             <h1 className='text-center mt-32 text-5xl'>Featured Jobs</h1>
