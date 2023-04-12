@@ -19,8 +19,8 @@ const FeatureJobs = () => {
     return (
         <div>
             <h1 className='text-center mt-32 text-5xl'>Featured Jobs</h1>
-            <p className='text-center'>Explore thousands of job opportunities with all the information you need. Its your future</p>
-            <div className='grid md:grid-cols-2  gap-6 mt-8 md:ml-72 mr-72'>
+            <p className='text-center mt-1'>Explore thousands of job opportunities with all the information you need. Its your future</p>
+            <div className='grid md:grid-cols-2  gap-6 mt-8 md:ml-72 md:mr-72'>
                 {
                     features.slice(0, dataSlice ? 6 : 4).map(feature => <SingleFeature
                         key={feature.id}
@@ -31,8 +31,8 @@ const FeatureJobs = () => {
                 }
 
             </div>
-            <div onClick={() => setdataSlice(true)}>
-                <button className='btn btn-primary ml-72 mt-10 mr-72'>See All Jobs</button>
+            <div onClick={() => setdataSlice(true)} className='w-40 h-16  mt-8 mx-auto'>
+                <button className='btn btn-primary'>See All Jobs</button>
             </div>
 
         </div >
